@@ -1,2 +1,4 @@
 icrawler
 split-folders
+tqdm
+pillow
