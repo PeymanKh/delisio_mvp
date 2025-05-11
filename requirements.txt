@@ -1,0 +1,11 @@
+icrawler
+split-folders
+tqdm
+pillow
+tensorflow
+langgraph
+langchain
+langchain-openai
+python-dotenv
+streamlit
+watchdog
