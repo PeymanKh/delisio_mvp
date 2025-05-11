@@ -3,6 +3,11 @@
 
 Delisio is an intelligent solution to generates personalized recipes tailored to your dietary preferences, nutritional goals, and allergies. By combining state-of-the-art computer vision and natural language processing, Delisio can recognize dishes from images and create customized recipes using a multimodal state machine.
 
+### **⚠️ No Local Setup and Run Required!**
+**You don't need to clone this repository or run it locally. The project is fully deployed and accessible online at:**  
+➡️ **[Delisio Web Application](https://delisio-mvp.onrender.com)**  
+➡️ **[Marketing Page](https://delisio.app)** (To access the production version)  
+
 ### Key Features:
 - **Food Image Recognition:** Accurately classifies 10 popular dishes using a fine-tuned Convolutional Neural Network (CNN).
 - **Personalized Recipe Generation:** Leverages a Large Language Model (LLM) to create recipes that match your dietary needs and preferences.
