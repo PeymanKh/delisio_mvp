@@ -16,7 +16,7 @@ import splitfolders
 def main():
     # Define input/output paths
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
-    input_folder = os.path.join(base_dir, "raw", "food_dataset")
+    input_folder = os.path.join(base_dir, "raw")
     output_folder = os.path.join(base_dir, "split")
 
     print(f"Splitting dataset from:\n  {input_folder}\ninto:\n  {output_folder}\n")

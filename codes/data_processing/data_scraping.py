@@ -22,7 +22,7 @@ FOOD_CLASSES = [
 
 def get_dataset_base_dir() -> str:
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
-    dataset_path = os.path.join(project_root, "data", "raw", "food_dataset")
+    dataset_path = os.path.join(project_root, "data", "raw")
     os.makedirs(dataset_path, exist_ok=True)
     return dataset_path
 

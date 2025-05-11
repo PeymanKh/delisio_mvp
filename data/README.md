@@ -9,7 +9,7 @@ You can view and download the dataset manually using the link below:
 
 ### How to Use the Dataset
 1. **Visit the Google Drive Link:** Click the link above to open the dataset in your browser.
-2. **Select the Files or Folders You Need:** For training the model again, you only need to download `split.zip` file and use it in notebook
+2. **Select the Files or Folders You Need:** For training the model again, you only need to download `split.zip` file and use it in the notebook.
 3. **Download to Your Local Machine:**
    - If you want the full dataset, click the "Download All" button in Google Drive.
    - For specific images, right-click and choose "Download."
