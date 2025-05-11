@@ -17,7 +17,7 @@ st.title("Delisio - A Multimodal State Machine for Personalized Recipe Generatio
 st.markdown("""
 ### Research and developed by [Peyman Khodabandehlouei](https://www.linkedin.com/in/peyman-khodabandehlouei/)
 - [Marketing Page](https://delisio.app)
-- [Technical Report](https://github.com/PeymanKh/delisio_mvp)
+- [Technical Report](https://github.com/PeymanKh/delisio_mvp/blob/main/paper/technical_report.pdf)
 - [GitHub Repository](https://github.com/PeymanKh/delisio_mvp)
 ---
 """)
